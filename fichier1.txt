@@ -1,2 +1,3 @@
 Dans le fichier 1
 1. Fichier modifié et commité avec master
+2. Ecriture de texte pour la modification du message de commit
